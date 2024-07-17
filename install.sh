@@ -13,6 +13,6 @@ pip install pytz
 
 pip install requests
 
-wget https://raw.githubusercontent.com/MrAminiDev/3x-ui-Sanaei-TelegramBot/main/main.py
+wget https://raw.githubusercontent.com/MrAminiDev/BorzooBot/main/main.py
 
-wget https://raw.githubusercontent.com/MrAminiDev/3x-ui-Sanaei-TelegramBot/main/info.json
+wget https://raw.githubusercontent.com/MrAminiDev/BorzooBot/main/info.json
