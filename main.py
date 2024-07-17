@@ -1,6 +1,6 @@
 #Developed By Mr.Amini
 #My Telegram ID: @MrAminiNehad
-#My Github: https://github.com/MrAminiNezhad/
+#My Github: https://github.com/MrAminiDev/
 #Code version 1.3.0
 
 import logging
@@ -252,5 +252,5 @@ bot.start_bot()
 
 #Developed By Mr.Amini
 #My Telegram ID: @MrAminiNehad
-#My Github: https://github.com/MrAminiNezhad/
+#My Github: https://github.com/MrAminiDev/
 #Code version 1.3.0
