@@ -21,7 +21,7 @@ Over time, according to your support, the capabilities of creating an account, d
 # learn inistallation
 1- For quick installation, type the following command to install the script prerequisites.<br>
 ```
-  bash <(curl -Ls https://raw.githubusercontent.com/MrAminiNezhad/BorzooBot/main/install.sh)
+  bash <(curl -Ls https://raw.githubusercontent.com/MrAminiDev/BorzooBot/main/install.sh)
 ```
 2- Then edit the contents of the file with the command below
 ```
