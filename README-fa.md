@@ -16,7 +16,7 @@
 # آموزش نصب
 1- جهت نصب سریع دستور زیر را بزنید تا پیشنیاز های اسکریپت نصب شود.<br>
 ```
- bash <(curl -Ls https://raw.githubusercontent.com/MrAminiNezhad/BorzooBot/main/install.sh)
+ bash <(curl -Ls https://raw.githubusercontent.com/MrAminiDev/BorzooBot/main/install.sh)
 ```
 2- سپس با دستور زیر محتوای درون فایل را ویرایش نمایید <br>
 ```
@@ -77,7 +77,7 @@ nohup python3 main.py &
 # بروز رسانی ( بعد از بروز رسانی به ورزن 1.3.0 نیازمند وارد کردن مجدد اطلاعات پنل و ربات هستید )
 1- جهت بروز رسانی از دستور زیر استفاده بکنید <br>
 ```
- bash <(curl -Ls https://raw.githubusercontent.com/MrAminiNezhad/BorzooBot/main/update.sh)
+ bash <(curl -Ls https://raw.githubusercontent.com/MrAminiDev/BorzooBot/main/update.sh)
 ```
 2- اطلاعات پنل را مجدد در فایل زیر وارد بکنید <br>
 ```
