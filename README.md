@@ -17,7 +17,7 @@ Over time, according to your support, the capabilities of creating an account, d
 7- The ability to add several admins<br>
 
 # Preview
-![Borzoo Demo](https://raw.githubusercontent.com/MrAminiNezhad/BorzooBot/main/demo.JPG)
+![Borzoo Demo](https://raw.githubusercontent.com/MrAminiDev/BorzooBot/main/demo.JPG)
 # learn inistallation
 1- For quick installation, type the following command to install the script prerequisites.<br>
 ```
