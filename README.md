@@ -82,7 +82,7 @@ nohup python3 main.py &
 # Update (after updating to version 1.3.0, you need to re-enter panel and robot information)
 1- Use the following command to update
 ```
-  bash <(curl -Ls https://raw.githubusercontent.com/MrAminiNezhad/BorzooBot/main/update.sh)
+  bash <(curl -Ls https://raw.githubusercontent.com/MrAminiDev/BorzooBot/main/update.sh)
 ```
 2- Re-enter the panel information in the following file <br>
 ```
