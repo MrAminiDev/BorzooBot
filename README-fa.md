@@ -12,7 +12,7 @@
 7- قابلیت اد کردن چندین ادمین <br>
 
 # پیش نمایش 
-![Borzoo Demo](https://raw.githubusercontent.com/MrAminiNezhad/BorzooBot/main/demo.JPG)
+![Borzoo Demo](https://raw.githubusercontent.com/MrAminiDev/BorzooBot/main/demo.JPG)
 # آموزش نصب
 1- جهت نصب سریع دستور زیر را بزنید تا پیشنیاز های اسکریپت نصب شود.<br>
 ```
